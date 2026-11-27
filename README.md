@@ -72,7 +72,6 @@ BookScope/
 │   ├── Data_Cleaning.ipynb
 │   ├── EDA.ipynb
 │   ├── ML_Model_Training.ipynb
-│   ├── ML_Model_Training_Updated.ipynb
 │   └── Visualisations.ipynb
 └── README.md
 ```
